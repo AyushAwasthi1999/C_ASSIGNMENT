@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "SIMPLECALCULATOR.C": "cpp",
+        "stdio.h": "c"
+    }
+}
