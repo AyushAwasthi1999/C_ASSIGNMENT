@@ -6,11 +6,11 @@
 
    ### Display This Information using printf
    ### Simple calculator
-   ### find area of circle, rectangle and triangle 
-   ### find simple interest
-   ### swap two numbers without using third variable
-   ### find number is even or odd using ternary operator
+   ### Find area of circle, rectangle and triangle 
+   ### Find simple interest
+   ### Swap two numbers without using third variable
+   ### Find number is even or odd using ternary operator
    ### Monday to Sunday using switch case
    ### Vowel or Consonant using switch case 
    ### Looping programs
-   ### print 972 to 897 using for loop 
+   ### Print 972 to 897 using for loop 
